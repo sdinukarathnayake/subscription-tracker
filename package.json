@@ -1,0 +1,27 @@
+{
+  "name": "subscriptiontracker",
+  "version": "1.0.0",
+  "description": "subscription-tracker",
+  "main": "app.js",
+  "type": "module",
+
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdinukarathnayake/subscription-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdinukarathnayake/subscription-tracker/issues"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
